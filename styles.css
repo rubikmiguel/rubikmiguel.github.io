@@ -21,9 +21,11 @@ a:hover {
 
 /* Estilos de encabezado y navegación */
 header {
-	background-color: #f5f5f5;
+	font-family: Century Gothic;
+	background-color: #FFFFFFAA;
 	border-bottom: 1px solid #ddd;
 	padding: 20px;
+	text-align: center;
 }
 
 h1 {
@@ -51,6 +53,7 @@ nav a {
 }
 
 /* Estilos de proyectos */
+
 .proyecto {
 	margin-bottom: 40px;
 }
@@ -68,6 +71,15 @@ nav a {
 .proyecto p {
 	margin: 0;
 }
+
+body {
+	font-family: Century Gothic;
+  background-image: url("images/fondo.jpg");
+  background-size: cover;
+	padding-left: 50px;
+  padding-right: 50px;
+}
+
 
 /* Estilos de secciones de página */
 section {
